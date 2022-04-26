@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that allows me to learn while contributing
 - 📫 How to reach me on Discord @ #8321
 
-#BeCode Bootcamp to junior full stack web developer Traject#
+##BeCode Bootcamp to junior full stack web developer Traject##
 - **Day 1** - 19/04/2022
   - [Introduction](https://becode.org/about/pedagogical-framework/)
   - [Install and configure an IDE](https://code.visualstudio.com)
