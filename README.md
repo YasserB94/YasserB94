@@ -6,8 +6,8 @@
 
 #BeCode Bootcamp to junior full stack web developer Traject#
 - **Day 1** - 19/04/2022
-  - [Introduction] (https://becode.org/about/pedagogical-framework/)
-  - [Install and configure an IDE] (https://code.visualstudio.com)
+  - [Introduction](https://becode.org/about/pedagogical-framework/)
+  - [Install and configure an IDE](https://code.visualstudio.com)
   - [GIT and Github for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
   - [Get familiar with the command line](https://github.com/becodeorg/ANT-Lamarr-6.35/tree/main/1.The-Field/day%202/terminal)
 - **Day 2** - 20/04/2022
