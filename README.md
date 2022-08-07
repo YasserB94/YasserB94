@@ -15,7 +15,7 @@
   - Object Oriented Programming
   - Having an understanding of what is going on under the hood
   - The S.O.L.I.D. Design principles
-- 📚 I have an interest for the future to also learn:
+- 📚 I have an interest for the future to also improve upon:
   - Swift
   - SwiftUI
   - Bash
