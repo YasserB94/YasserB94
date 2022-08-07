@@ -1,8 +1,31 @@
 - 👋 Hi, I’m @YasserB94
-- 👀 I’m interested in Music,Technology,Economy,Coding,...
-- 🌱 I’m currently learning @BeCode to become a junior full stack web developper, Swift,Chess,...
-- 💞️ I’m looking to collaborate on anything that allows me to learn while contributing
-- 📫 How to reach me on Discord @ #8321
+- 👀 I’m interested in Technology,Music,Boardgames,Coding,...
+- 🌱 I’m currently on my journey to become a Full Stack Web Developper trough a [BeCode](https://becode.org) course.
+- 🧑🏼‍💻I'm currently learning to code with:
+  - HTML
+  - CSS/SCSS/SASS
+  - JavaScript
+  - TypeScript
+  - PHP
+- 🛠 I'm currently learning to work with:
+  - Angular
+  - Tailwind CSS
+  - NodeJS
+- 🧠 While learning to code I try to focus on:
+  - Object Oriented Programming
+  - Having an understanding of what is going on under the hood
+  - The S.O.L.I.D. Design principles
+- 📚 I have an interest for the future to also learn:
+  - Swift
+  - SwiftUI
+  - Bash
+- 💞️ I’m looking to collaborate if it allows me to learn more.
+- 📫 How to reach me on:
+  - 💬 Discord: #8321
+
+
+“Fix the cause, not the symptom.” – Steve Maguire
+
 <!---
 **BeCode Bootcamp to junior full stack web developer Traject**
 - **Day 1** - _19/04/2022_
