@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning @BeCode to become a junior full stack web developper, Swift,Chess,...
 - 💞️ I’m looking to collaborate on anything that allows me to learn while contributing
 - 📫 How to reach me on Discord @ #8321
-
+<!---
 **BeCode Bootcamp to junior full stack web developer Traject**
 - **Day 1** - _19/04/2022_
   - [Introduction](https://becode.org/about/pedagogical-framework/)
@@ -22,7 +22,7 @@
   - [The importance of semantics and SEO](https://github.com/YasserB94/day4_Progressive_Enhancement)
 - **Day 6** - _26/04/2022_
   - [CSS Preprocessors:SASS](https://github.com/YasserB94/Day_5_Challenge_SASS)
-<!---
+
 YasserB94/YasserB94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
