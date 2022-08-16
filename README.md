@@ -9,9 +9,10 @@
   - PHP
 - 🛠 I'm currently learning to work with:
   - Angular
-  - React
+  - ReactJS 18
   - Tailwind CSS
   - NodeJS
+  - ExpressJS
 - 🧠 While learning to code I try to focus on:
   - Object Oriented Programming
   - Having an understanding of what is going on under the hood
