@@ -9,6 +9,7 @@
   - PHP
 - 🛠 I'm currently learning to work with:
   - Angular
+  - React
   - Tailwind CSS
   - NodeJS
 - 🧠 While learning to code I try to focus on:
