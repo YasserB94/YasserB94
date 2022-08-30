@@ -8,15 +8,13 @@
   - TypeScript
   - PHP
 - 🛠 I'm currently learning to work with:
+  - Symfony
+- 🧠 In between my chosen snacks are
   - Angular
   - ReactJS 18
   - Tailwind CSS
   - NodeJS
   - ExpressJS
-- 🧠 While learning to code I try to focus on:
-  - Object Oriented Programming
-  - Having an understanding of what is going on under the hood
-  - The S.O.L.I.D. Design principles
 - 📚 I have an interest for the future to also improve upon:
   - Swift
   - SwiftUI
