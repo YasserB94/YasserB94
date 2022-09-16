@@ -24,6 +24,13 @@
   - 💬 Discord: #8321
 
 
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yasserb94" />
+</div>
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yasserb94" />
+</div>
+
 “Fix the cause, not the symptom.” – Steve Maguire
 
 <!---
