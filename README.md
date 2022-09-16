@@ -25,10 +25,10 @@
 
 
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yasserb94" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserb94&layout=compact" />
 </div>
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yasserb94" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yasserb94" />
 </div>
 
 “Fix the cause, not the symptom.” – Steve Maguire
