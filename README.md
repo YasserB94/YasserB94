@@ -39,35 +39,35 @@
 ### ⚒️ Tools I use to solve them quicker 🛠
 
 <table>
-      <thead align="center" style="text-align: center">
-        <th align="center" style="text-align: center">SASS</th>
-        <th align="center" style="text-align: center">TailwindCSS</th>
-        <th align="center" style="text-align: center">ReactJS</th>
-        <th align="center" style="text-align: center">Angular</th>
-        <th align="center" style="text-align: center">ExpressJS</th>
-        <th align="center" style="text-align: center">Symfony</th>
-        <th align="center" style="text-align: center">Git</th>
+      <thead align="center" style="text-align:center">
+        <th align="center" style="text-align:center">SASS</th>
+        <th align="center" style="text-align:center">TailwindCSS</th>
+        <th align="center" style="text-align:center">ReactJS</th>
+        <th align="center" style="text-align:center">Angular</th>
+        <th align="center" style="text-align:center">ExpressJS</th>
+        <th align="center" style="text-align:center">Symfony</th>
+        <th align="center" style="text-align:center">Git</th>
       </thead>
       <tbody>
-        <td align="center" style="text-align: center">
+        <td align="center" style="text-align:center">
           <img src="./assets/Tools/48x_sass.svg" alt="SASS" />
         </td>
-        <td align="center" style="text-align: center">
+        <td align="center" style="text-align:center">
           <img src="./assets/Tools/48x_tailwind.svg" alt="Tailwind CSS" />
         </td>
-        <td align="center" style="text-align: center">
+        <td align="center" style="text-align:center">
           <img src="./assets/Tools/48x_react.svg" alt="ReactJS" />
         </td>
-        <td align="center" style="text-align: center">
+        <td align="center" style="text-align:center">
           <img src="./assets/Tools/48x_angular.svg" alt="Angular" />
         </td>
-        <td align="center" style="text-align: center">
+        <td align="center" style="text-align:center;background-color:smokewhite;">
           <img src="./assets/Tools/48x_expressjs.svg" alt="ExpressJS" />
         </td>
-        <td align="center" style="text-align: center">
+        <td align="center" style="text-align:center">
           <img src="./assets/Tools/48x_symfony.svg" alt="Symfony" />
         </td>
-        <td align="center" style="text-align: center">
+        <td align="center" style="text-align:center; background-color:smokewhite;">
           <img src="./assets/Tools/48x_git.svg" alt="Git" />
         </td>
       </tbody>
