@@ -34,11 +34,11 @@
         <td style="text-align:center"><img src="./assets/48x_bash.svg" alt="bash" /></td>
         <td style="text-align:center"><img src="./assets/48x_swift.svg" alt="swift" /></td>
       </tbody>
-    </table>
+</table>
 
 ### ⚒️ Tools I use to solve them quicker 🛠
 
-    <table>
+<table>
       <thead style="text-align: center">
         <th style="text-align: center">SASS</th>
         <th style="text-align: center">TailwindCSS</th>
@@ -71,7 +71,7 @@
           <img src="./assets/Tools/48x_git.svg" alt="Git" />
         </td>
       </tbody>
-    </table>
+</table>
 </center>
 
 ***
