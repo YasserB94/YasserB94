@@ -2,7 +2,7 @@
 - 💼 I'm currently following a Full Stack Web Developer bootcamp @ [BeCode](www.becode.org)
 - 💬 Contact me trough Discord: #8321 
 - 🖇 Connect with me on
-  - <a href="https://www.linkedin.com/in/yasser-bal-087399215/">
+<a href="https://www.linkedin.com/in/yasser-bal-087399215/">
   <img align="center" alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
