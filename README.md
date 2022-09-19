@@ -89,7 +89,6 @@
  <table>
       <thead>
         <th style="text-align: center">😳 Some Background Info</th>
-        <th style="text-align: center">📊 My Github Stats</th>
       </thead>
       <tbody>
         <td>
@@ -111,14 +110,8 @@
             </tbody>
           </table>
         </td>
-        <td style="text-align: center">
-          <img
-            src="https://github-readme-stats.vercel.app/api?username=yasserb94&show_icons=true&theme=dark&hide_title=true"
-            alt="Github Stats from Vercel"
-          />
-        </td>
       </tbody>
-    </table>
+</table>
 
 
 <blockquote cite="https://en.wikipedia.org/wiki/Steve_Maguire">
