@@ -62,13 +62,13 @@
           <img src="./assets/Tools/48x_angular.svg" alt="Angular" />
         </td>
         <td align="center" style="text-align:center;background-color:smokewhite;">
-          <img src="./assets/Tools/48x_expressjs.svg" alt="ExpressJS" />
+          <img src="./assets/Tools/48x_expressjs_light.svg" alt="ExpressJS" />
         </td>
         <td align="center" style="text-align:center">
           <img src="./assets/Tools/48x_symfony.svg" alt="Symfony" />
         </td>
         <td align="center" style="text-align:center; background-color:smokewhite;">
-          <img src="./assets/Tools/48x_git.svg" alt="Git" />
+          <img src="./assets/Tools/48x_git_light.svg" alt="Git" />
         </td>
       </tbody>
 </table>
