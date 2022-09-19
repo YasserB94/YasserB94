@@ -39,35 +39,35 @@
 ### ⚒️ Tools I use to solve them quicker 🛠
 
 <table>
-      <thead style="text-align: center">
-        <th style="text-align: center">SASS</th>
-        <th style="text-align: center">TailwindCSS</th>
-        <th style="text-align: center">ReactJS</th>
-        <th style="text-align: center">Angular</th>
-        <th style="text-align: center">ExpressJS</th>
-        <th style="text-align: center">Symfony</th>
-        <th style="text-align: center">Git</th>
+      <thead align="center" style="text-align: center">
+        <th align="center" style="text-align: center">SASS</th>
+        <th align="center" style="text-align: center">TailwindCSS</th>
+        <th align="center" style="text-align: center">ReactJS</th>
+        <th align="center" style="text-align: center">Angular</th>
+        <th align="center" style="text-align: center">ExpressJS</th>
+        <th align="center" style="text-align: center">Symfony</th>
+        <th align="center" style="text-align: center">Git</th>
       </thead>
       <tbody>
-        <td style="text-align: center">
+        <td align="center" style="text-align: center">
           <img src="./assets/Tools/48x_sass.svg" alt="SASS" />
         </td>
-        <td style="text-align: center">
+        <td align="center" style="text-align: center">
           <img src="./assets/Tools/48x_tailwind.svg" alt="Tailwind CSS" />
         </td>
-        <td align="center" style="text-align: center">
+        <td align="center" align="center" style="text-align: center">
           <img src="./assets/Tools/48x_react.svg" alt="ReactJS" />
         </td>
-        <td style="text-align: center">
+        <td align="center" style="text-align: center">
           <img src="./assets/Tools/48x_angular.svg" alt="Angular" />
         </td>
-        <td style="text-align: center">
+        <td align="center" style="text-align: center">
           <img src="./assets/Tools/48x_expressjs.svg" alt="ExpressJS" />
         </td>
-        <td style="text-align: center">
+        <td align="center" style="text-align: center">
           <img src="./assets/Tools/48x_symfony.svg" alt="Symfony" />
         </td>
-        <td style="text-align: center">
+        <td align="center" style="text-align: center">
           <img src="./assets/Tools/48x_git.svg" alt="Git" />
         </td>
       </tbody>
@@ -88,25 +88,25 @@
 <center>
  <table>
       <thead>
-        <th style="text-align: center">😳 Some Background Info</th>
+        <th align="center" style="text-align: center">😳 Some Background Info</th>
       </thead>
       <tbody>
         <td>
           <table>
             <thead>
-              <th style="text-align: center">📖 Studied to be a</th>
-              <th style="text-align: center">👷‍♂️ Before coding I was a</th>
-              <th colspan="4" style="text-align: center">
+              <th align="center" style="text-align: center">📖 Studied to be a</th>
+              <th align="center" style="text-align: center">👷‍♂️ Before coding I was a</th>
+              <th colspan="4" align="center" style="text-align: center">
                ♻️ Started coding because of
               </th>
             </thead>
             <tbody>
-              <td style="text-align: center">🖨 Printer</td>
-              <td style="text-align: center">🍻 Bartender</td>
-              <td style="text-align: center">❤️‍🔥 Passion</td>
-              <td style="text-align: center">🧐 Curiousity</td>
-              <td style="text-align: center">🤔 Interest</td>
-              <td style="text-align: center">🎈 Fun!</td>
+              <td align="center" style="text-align: center">🖨 Printer</td>
+              <td align="center" style="text-align: center">🍻 Bartender</td>
+              <td align="center" style="text-align: center">❤️‍🔥 Passion</td>
+              <td align="center" style="text-align: center">🧐 Curiousity</td>
+              <td align="center" style="text-align: center">🤔 Interest</td>
+              <td align="center" style="text-align: center">🎈 Fun!</td>
             </tbody>
           </table>
         </td>
