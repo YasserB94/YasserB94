@@ -55,7 +55,7 @@
         <td style="text-align: center">
           <img src="./assets/Tools/48x_tailwind.svg" alt="Tailwind CSS" />
         </td>
-        <td style="text-align: center">
+        <td align="center" style="text-align: center">
           <img src="./assets/Tools/48x_react.svg" alt="ReactJS" />
         </td>
         <td style="text-align: center">
