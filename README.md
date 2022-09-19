@@ -8,31 +8,31 @@
 ### 🧑🏼‍💻  Languages I use to solve problems 🧩
 
 <table>
-      <thead style="text-align:center">
-        <th style="text-align:center">HTML</th>
-        <th style="text-align:center">CSS</th>
-        <th style="text-align:center">JavaScript</th>
-        <th style="text-align:center">PHP</th>
-        <th style="text-align:center">TypeScript</th>
-        <th style="text-align:center">Bash</th>
-        <th style="text-align:center">Swift</th>
+      <thead align="center" style="text-align:center">
+        <th align="center" style="text-align:center">HTML</th>
+        <th align="center" style="text-align:center">CSS</th>
+        <th align="center" style="text-align:center">JavaScript</th>
+        <th align="center" style="text-align:center">PHP</th>
+        <th align="center" style="text-align:center">TypeScript</th>
+        <th align="center" style="text-align:center">Bash</th>
+        <th align="center" style="text-align:center">Swift</th>
       </thead>
       <tbody>
-        <td style="text-align:center">
+        <td align="center" style="text-align:center">
           <img src="./assets/48x_Html.svg" alt="HTML 5" />
         </td>
-        <td style="text-align:center" >
+        <td align="center" style="text-align:center" >
           <img src="./assets/48x_CSS.svg" alt="CSS3" />
         </td>
-        <td style="text-align:center">
+        <td align="center" style="text-align:center">
           <img src="./assets/48x_JavaScript.png" alt="JavaScript" />
         </td>
-        <td style="text-align:center">
+        <td align="center" style="text-align:center">
           <img src="./assets/48x_PhP.svg" alt="Php" />
         </td>
-        <td style="text-align:center"><img src="./assets/48x_TypeScript.png" alt="TypeScript" /></td>
-        <td style="text-align:center"><img src="./assets/48x_bash.svg" alt="bash" /></td>
-        <td style="text-align:center"><img src="./assets/48x_swift.svg" alt="swift" /></td>
+        <td align="center" style="text-align:center"><img src="./assets/48x_TypeScript.png" alt="TypeScript" /></td>
+        <td align="center" style="text-align:center"><img src="./assets/48x_bash.svg" alt="bash" /></td>
+        <td align="center" style="text-align:center"><img src="./assets/48x_swift.svg" alt="swift" /></td>
       </tbody>
 </table>
 
@@ -55,7 +55,7 @@
         <td align="center" style="text-align: center">
           <img src="./assets/Tools/48x_tailwind.svg" alt="Tailwind CSS" />
         </td>
-        <td align="center" align="center" style="text-align: center">
+        <td align="center" style="text-align: center">
           <img src="./assets/Tools/48x_react.svg" alt="ReactJS" />
         </td>
         <td align="center" style="text-align: center">
