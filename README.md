@@ -4,7 +4,9 @@
 - 🖇 Connect with me on [LinkedIn](https://www.linkedin.com/in/yasser-bal-087399215/)
 ***
 <center>
-🧑🏼‍💻  Languages I use to solve problems 🧩
+
+### 🧑🏼‍💻  Languages I use to solve problems 🧩
+
 <table>
       <thead style="text-align:center">
         <th style="text-align:center">HTML</th>
@@ -33,7 +35,9 @@
         <td style="text-align:center"><img src="./assets/48x_swift.svg" alt="swift" /></td>
       </tbody>
     </table>
-⚒️ Tools I use to solve them quicker 🛠
+
+### ⚒️ Tools I use to solve them quicker 🛠
+
     <table>
       <thead style="text-align: center">
         <th style="text-align: center">SASS</th>
