@@ -21,6 +21,7 @@
         <th align="center" style="text-align:center">TypeScript</th>
         <th align="center" style="text-align:center">Bash</th>
         <th align="center" style="text-align:center">Swift</th>
+        <th align="center" style="text-align:center">Java</th>
       </thead>
       <tbody>
         <td align="center" style="text-align:center">
@@ -38,6 +39,7 @@
         <td align="center" style="text-align:center"><img src="./assets/48x_TypeScript.png" alt="TypeScript" /></td>
         <td align="center" style="text-align:center"><img src="./assets/48x_bash.svg" alt="bash" /></td>
         <td align="center" style="text-align:center"><img src="./assets/48x_swift.svg" alt="swift" /></td>
+                <td align="center" style="text-align:center"><img src="./assets/64x_java.png" alt="java" /></td>
       </tbody>
 </table>
 
