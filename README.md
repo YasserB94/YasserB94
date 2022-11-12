@@ -86,10 +86,8 @@
 - 📈 Start my carreer as a web developer
 - 🔎 Find an internship to complete my BeCode Training
 - 🧠 Improve my programming skillset
-- 📚 Improve my knownledge of Symfony 6, StimulusJS, Twig
-### 🪛 Currently Working on:
-- 🔥 A flow artist website
-    - An artist's website providing info about her shows, with a custom CMS system so the artist can update her own website according to current offered shows. 
+- 📚 Improve my knownledge of PHP,Laravel,InertiaJS,TailwindCSS
+
 
 ***
 <center>
