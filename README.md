@@ -86,7 +86,7 @@
 - 📈 Start my carreer as a web developer
 - 🔎 Find an internship to complete my BeCode Training
 - 🧠 Improve my programming skillset
-- 📚 Improve my knownledge of PHP,Laravel,InertiaJS,TailwindCSS
+- 📚 Improve my knownledge of PHP,Laravel,InertiaJS,VueJS,TailwindCSS
 
 
 ***
