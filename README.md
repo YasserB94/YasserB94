@@ -1,5 +1,5 @@
 # 🙋🏼‍♂️ Hi there! I'm Yasser Bal.
-- 💼 I'm currently preparing to work as a Full Stack Web Developer for Artcore Society in Antwerp
+- 💼 I'm currently working as a Full Stack Developer @ Artcoresociety
 - 💬 Contact me trough Discord: #8321 
 - 🖇 Connect with me on
 <a href="https://www.linkedin.com/in/yasser-bal-087399215/">
