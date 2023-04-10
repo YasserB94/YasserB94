@@ -48,13 +48,13 @@
 <table>
       <thead align="center" style="text-align:center">
 <!--         <th align="center" style="text-align:center">SASS</th> -->
-        <th align="center" style="text-align:center">TailwindCSS</th>
+<!--         <th align="center" style="text-align:center">TailwindCSS</th> -->
 <!--         <th align="center" style="text-align:center">ReactJS</th> -->
 <!--         <th align="center" style="text-align:center">Angular</th> -->
 <!--         <th align="center" style="text-align:center">ExpressJS</th> -->
 <!--         <th align="center" style="text-align:center">Symfony</th> -->
         
-        <th align="center" style="text-align:center">Git</th>
+<!--         <th align="center" style="text-align:center">Git</th>
       </thead>
       <tbody>
         <td align="center" style="text-align:center">
@@ -81,7 +81,7 @@
       </tbody>
 </table>
 </center> -->
-
+ 
 ***
 ### 👀 Currently looking to:
 - 📈 Develop games with Phaser 3
