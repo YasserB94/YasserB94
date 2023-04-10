@@ -10,8 +10,8 @@
 
 <center>
 
-### 🧑🏼‍💻  Languages I use to solve problems 🧩
-
+<!-- ### 🧑🏼‍💻  Languages I use to solve problems 🧩 -->
+<!-- 
 <table>
       <thead align="center" style="text-align:center">
         <th align="center" style="text-align:center">HTML</th>
@@ -47,12 +47,13 @@
 
 <table>
       <thead align="center" style="text-align:center">
-        <th align="center" style="text-align:center">SASS</th>
+<!--         <th align="center" style="text-align:center">SASS</th> -->
         <th align="center" style="text-align:center">TailwindCSS</th>
-        <th align="center" style="text-align:center">ReactJS</th>
-        <th align="center" style="text-align:center">Angular</th>
-        <th align="center" style="text-align:center">ExpressJS</th>
-        <th align="center" style="text-align:center">Symfony</th>
+<!--         <th align="center" style="text-align:center">ReactJS</th> -->
+<!--         <th align="center" style="text-align:center">Angular</th> -->
+<!--         <th align="center" style="text-align:center">ExpressJS</th> -->
+<!--         <th align="center" style="text-align:center">Symfony</th> -->
+        
         <th align="center" style="text-align:center">Git</th>
       </thead>
       <tbody>
@@ -79,14 +80,14 @@
         </td>
       </tbody>
 </table>
-</center>
+</center> -->
 
 ***
 ### 👀 Currently looking to:
-- 📈 Start my carreer as a web developer
-- 🔎 Find an internship to complete my BeCode Training
-- 🧠 Improve my programming skillset
-- 📚 Improve my knownledge of PHP,Laravel,InertiaJS,VueJS,TailwindCSS
+- 📈 Develop games with Phaser 3
+- 🔎 Become a true Artisan by mastering Laravel, Inertia and Vue
+- 🧠 Build a couple projects to expand, and finally create my portofolio
+- 📚 Learn more about Database structures and Design patterns
 
 
 ***
