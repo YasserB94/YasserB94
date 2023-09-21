@@ -84,10 +84,11 @@
  
 ***
 ### 👀 Currently looking to:
-- 📈 Develop games with Phaser 3
-- 🔎 Become a true Artisan by mastering Laravel, Inertia and Vue
-- 🧠 Build a couple projects to expand, and finally create my portofolio
-- 📚 Learn more about Database structures and Design patterns
+- 📈 Improve my knowledge of the VILT Stack (VueJS, InertiaJS, Laravel and TailwindCSS)
+- 🍎 Play around with Swift and SwiftUI
+- 🔎 Explore technology and tinker with code to solve problems
+- 🧠 Enrich myself by researching what others do
+- 📚 Learn something new every day
 
 
 ***
