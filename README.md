@@ -86,8 +86,6 @@
 ### 👀 Currently looking to:
 - 📈 Improve my knowledge of the VILT Stack (VueJS, InertiaJS, Laravel and TailwindCSS)
 - 🍎 Play around with Swift and SwiftUI
-- 🔎 Explore technology and tinker with code to solve problems
-- 🧠 Enrich myself by researching what others do
 - 📚 Learn something new every day
 
 
