@@ -6,9 +6,6 @@
   <img align="center" alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-***
-
-<center>
 
 <!-- ### 🧑🏼‍💻  Languages I use to solve problems 🧩 -->
 <!-- 
@@ -89,7 +86,6 @@
 - 📚 Learn something new every day
 
 
-***
 
 <!--
 <blockquote cite="https://en.wikipedia.org/wiki/Steve_Maguire">
